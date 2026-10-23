@@ -1,0 +1,6 @@
+{
+  "name": "Hành trình chu du của máu khắp cơ thể người",
+  "description": "Mô phỏng tương tác sinh học về sự lưu thông của máu trong hệ mạch người dành cho học sinh THCS (Khoa học tự nhiên Lớp 8).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
